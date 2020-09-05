@@ -1,0 +1,16 @@
+# Build
+/app/build
+/lambda-function.zip
+
+# NodeJS
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Terraform
+*.tfstate
+.terraform/
+terraform.tfvars
